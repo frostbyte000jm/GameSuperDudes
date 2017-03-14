@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab03\AppMain.cs">
+    <Files>
+      <File FileName="Lab03\AppMain.cs" Line="95" Column="4" />
+      <File FileName="Lab03\Player.cs" Line="35" Column="19" />
+      <File FileName="Lab03\Enemy.cs" Line="92" Column="6" />
+      <File FileName="Lab03\HUD.cs" Line="190" Column="3" />
+      <File FileName="Lab03\Ammo.cs" Line="13" Column="20" />
+      <File FileName="Lab03\BackGround.cs" Line="24" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Lab03" expanded="True" selected="True">
+            <Node name="References" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Buttons</Value>
+          <Value>heroes</Value>
+          <Value>huds</Value>
+          <Value>scene</Value>
+          <Value>h</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Lab03\HUD.cs" line="26" offsetX="863" offsetY="96" expression="scene" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

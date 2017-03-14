@@ -1,0 +1,379 @@
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03.psdp
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\obj\Debug\app.exe
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\obj\Debug\app.pdb
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\obj\Debug\app.exe
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\bin\Debug\Lab03.psdp
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab03\Lab03\obj\Debug\app.pdb
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Lab03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03.psdp
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\obj\Debug\app.exe
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\obj\Debug\app.pdb
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\jmartin\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\bin\Debug\Lab03.psdp
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\obj\Debug\app.exe
+C:\Users\james_000\Documents\Projects\Lab04\Lab03\obj\Debug\app.pdb
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Game02\Lab03\bin\Debug\Lab03.psdp
+C:\Users\james_000\Documents\Projects\Game02\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\james_000\Documents\Projects\Game02\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Game02\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Game02\Lab03\obj\Debug\app.exe
+C:\Users\james_000\Documents\Projects\Game02\Lab03\obj\Debug\app.pdb
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\bin\Debug\Lab03.psdp
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\obj\Debug\app.exe
+C:\Users\james_000.JAMIESQUAREDJR\Documents\Programs\Lab05\Lab03\obj\Debug\app.pdb
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\bin\Debug\Lab03.psdp
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\obj\Debug\app.exe
+C:\Users\james_000\Documents\Projects\Lab05\Lab03\obj\Debug\app.pdb
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03.psdp
+C:\Users\james_000\Documents\Projects\Game03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\james_000\Documents\Projects\Game03\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\james_000\Documents\Projects\Game03\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\james_000\Documents\Projects\Game03\Lab03\obj\Debug\app.exe
+C:\Users\james_000\Documents\Projects\Game03\Lab03\obj\Debug\app.pdb
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Baferang.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\CrypticNight.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Granade.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Laser.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Baferang.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\CrypticNight.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Granade.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Laser.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Menu Screen.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Menu Screen.png
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\fight.mp3
+C:\Users\james_000\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\fight.mp3
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\app.info
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\shaders\Sprite.cgx
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Json.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Xml.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.Core.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\System.ServiceModel.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\app.exe.mdb
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Back.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Clouds Front.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\GoodGuy2.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Villain2.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Baferang.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\CrypticNight.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Granade.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Laser.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\Menu Screen.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-unsigned\Application\Assets\fight.mp3
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\app.info
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\shaders\Sprite.cgx
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\app.exe
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.Json.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.Xml.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.Runtime.Serialization.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.Core.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.Web.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\System.ServiceModel.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\app.exe.mdb
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Back.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Clouds Front.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\GoodGuy2.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Villain2.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Baferang.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\CrypticNight.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Granade.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Laser.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\Menu Screen.png
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03-signed\Application\Assets\fight.mp3
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\bin\Debug\Lab03.psdp
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\obj\Debug\app.exe
+C:\Users\jmartin\Documents\Projects\Game03\Lab03\obj\Debug\app.pdb
